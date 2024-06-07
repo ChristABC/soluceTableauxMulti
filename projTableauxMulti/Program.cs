@@ -20,6 +20,7 @@ class MainProgram
                 Console.Write(jaggedArray[i][j] + " ");
             }
             Console.WriteLine();
+            
         }
     }
 }
